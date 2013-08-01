@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modsCollection xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.loc.gov/mods/v3" xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-3.xsd">
+    <mods version="3.3">
+        <titleInfo>
+            <title>Kircher to Alexander VII, Pope (Fabio Chigi), Rome, 27 April 1660 (draft)</title>
+        </titleInfo>
+        <name type="personal">
+            <namePart>Kircher, Athanasius</namePart>
+            <role>
+                <roleTerm>sender</roleTerm>
+            </role>
+        </name>
+        <name type="personal">
+            <namePart>[INSERT NAME HERE]</namePart>
+            <role>
+                <roleTerm>recipient</roleTerm>
+            </role>
+        </name>
+        <typeOfResource>text</typeOfResource>
+        <genre>letter</genre>
+        <physicalDescription>
+            <internetMediaType>image/tiff</internetMediaType>
+            <extent>4 files</extent>
+        </physicalDescription>
+        <abstract>
+            "Kircher has sent a manuscript to Alexander VII (""in hac de Numerorum origine [Diatriba]…""). This is presumably a reference to the short manuscript treatise ""De Origine eorum numerorum, quos Zyphras vulgo vocant, quibus hoc tempore in computu rerum omnes uti solent"", BAV Chigi J.VI.225, ff. 78r-80v.8v= note in Kircher's hand."</abstract>
+        <relatedItem type="original">
+            <part>
+                <detail type="volume">
+                    <number>555</number>
+                    <caption>vol.</caption>
+                </detail>
+                <extent unit="page">
+                    <start>7 recto</start>
+                    <end>8 verso</end>
+                </extent>
+                <date>April 27, YEAR</date>
+            </part>
+            <location>
+                <physicalLocation>Archives of the Pontifical Gregorian University, APUG 555</physicalLocation>
+            </location>
+        </relatedItem>
+    </mods>
+</modsCollection>
